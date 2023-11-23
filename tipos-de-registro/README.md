@@ -1,6 +1,6 @@
 # Tipos de Registro
 
-Existen 3 formas de registros posibles en <mark style="background-color:orange;">\<NomeProduto></mark>, son ellas:&#x20;
+Existen 3 formas de registros posibles en **\<NomeProduto>**, son ellas:&#x20;
 
 * Lectura de QR Code;
 * Token de registro;

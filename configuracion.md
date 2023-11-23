@@ -1,6 +1,6 @@
 # Configuración
 
-Después de realizar el registro a través de una de las 3 opciones citadas en la sección anterior, se mostrará la pantalla "Lista de tareas de trabajo", en esta pantalla realizaremos las configuraciones necesarias para avanzar en el proceso de activación de <mark style="background-color:orange;">\<NomeProduto></mark>.
+Después de realizar el registro a través de una de las 3 opciones citadas en la sección anterior, se mostrará la pantalla "Lista de tareas de trabajo", en esta pantalla realizaremos las configuraciones necesarias para avanzar en el proceso de activación de **\<NomeProduto>**.
 
 1. Acepte y haga todos los ajustes en las pantallas hasta llegar a la siguiente pantalla:
 
@@ -10,10 +10,16 @@ Después de realizar el registro a través de una de las 3 opciones citadas en l
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-3. En la lista de tareas de trabajo, el siguiente paso es instalar aplicaciones de trabajo. Pulse "Instalar". En la siguiente pantalla se mostrarán las aplicaciones de trabajo disponibles para la instalación. En el ejemplo solo tenemos la aplicación <mark style="background-color:orange;">\<NomeProduto></mark>, pero puede ser una lista más larga. Esto depende de las configuraciones de trabajo de la empresa. Pulse el botón "Listo" para continuar.
+3. En la lista de tareas de trabajo, el siguiente paso es instalar aplicaciones de trabajo. Pulse "Instalar". En la siguiente pantalla se mostrarán las aplicaciones de trabajo disponibles para la instalación. En el ejemplo solo tenemos la aplicación **\<NomeProduto>**, pero puede ser una lista más larga. Esto depende de las configuraciones de trabajo de la empresa. Pulse el botón "Listo" para continuar.
+
+{% hint style="info" %}
+**NOTA**
+
+Si la empresa elige tener aplicaciones 'preinstaladas', debe tener en cuenta que estas se instalarán en el momento del aprovisionamiento del dispositivo, sin tener en cuenta si el dispositivo está en Wi-Fi o utilizando la red de datos, lo que podría resultar en un alto consumo de datos. En este caso, se recomienda el uso de una red Wi-Fi y, siempre que sea posible, configurarla previamente en la política de aprovisionamiento de dispositivos en el portal de administración de Control Móvil Empresarial.
+{% endhint %}
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-4. El siguiente paso en la pantalla “Tu lista de tareas de trabajo" es "Activar licencia" . Inicie el proceso de activación pulsando "Configurar". Después de pulsar en "Configurar", aparecerá la pantalla para iniciar la activación de <mark style="background-color:orange;">\<NomeProduto></mark>.
+4. El siguiente paso en la pantalla “Tu lista de tareas de trabajo" es "Activar licencia" . Inicie el proceso de activación pulsando "Configurar". Después de pulsar en "Configurar", aparecerá la pantalla para iniciar la activación de **\<NomeProduto>**.
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

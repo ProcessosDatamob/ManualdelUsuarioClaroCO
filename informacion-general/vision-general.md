@@ -1,6 +1,6 @@
 # Visión General
 
-Este manual se aplica a la instalación y activación del <mark style="background-color:orange;">\<NomeProduto></mark>.
+Este manual se aplica a la instalación y activación del **\<NomeProduto>**.
 
 Son indispensables las siguientes condiciones para el correcto funcionamiento de la aplicación:
 

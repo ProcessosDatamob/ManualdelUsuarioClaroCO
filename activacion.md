@@ -13,6 +13,6 @@
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-5. &#x20;¡Listo! Su licencia de <mark style="background-color:orange;">\<NomeProduto></mark> ha sido activada. Pulse Finalizar para iniciar el uso del dispositivo.
+5. &#x20;¡Listo! Su licencia de **\<NomeProduto>** ha sido activada. Pulse Finalizar para iniciar el uso del dispositivo.
 
 <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
