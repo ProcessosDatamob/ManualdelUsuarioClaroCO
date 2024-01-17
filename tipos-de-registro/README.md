@@ -1,6 +1,6 @@
 # Tipos de Registro
 
-Existen 3 formas de registros posibles en **\<NomeProduto>**:&#x20;
+Existen 3 formas de registros posibles en **Claro Monitor Empresarial**:&#x20;
 
 * Lectura de QR Code;
 * Token de registro;

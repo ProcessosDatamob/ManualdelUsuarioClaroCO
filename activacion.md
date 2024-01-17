@@ -21,4 +21,4 @@
 
 <figure><img src=".gitbook/assets/image (5).png" alt="" width="421"><figcaption></figcaption></figure>
 
-7. ¡Felicidades! Su licencia de **\<NomeProduto>** se ha activado con éxito. Pulse Concluir para iniciar el uso del dispositivo.
+7. ¡Felicidades! Su licencia de **Claro Monitor Empresarial** se ha activado con éxito. Pulse Concluir para iniciar el uso del dispositivo.

@@ -1,6 +1,6 @@
 # Visión General
 
-Este manual se aplica a la instalación y activación del **\<NomeProduto>**.
+Este manual se aplica a la instalación y activación del **Claro Monitor Empresarial**.
 
 Son indispensables las siguientes condiciones para el correcto funcionamiento de la aplicación:
 
