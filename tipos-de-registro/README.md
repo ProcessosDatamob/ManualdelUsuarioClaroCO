@@ -1,12 +1,12 @@
 # Tipos de Registro
 
-Existen 3 formas de registros posibles en **\<NomeProduto>**, son ellas:&#x20;
+Existen 3 formas de registros posibles en **\<NomeProduto>**:&#x20;
 
 * Lectura de QR Code;
 * Token de registro;
 * Registro Zero Touch;
 
-Explicaremos cada una de ellas en detalle en las siguientes secciones de este manual.
+Explicaremos cada una de ellas a detalle en las siguientes secciones de este manual.
 
 {% hint style="warning" %}
 **IMPORTANTE**

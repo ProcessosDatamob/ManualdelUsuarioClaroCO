@@ -1,6 +1,6 @@
 # Configuración
 
-Después de realizar el registro a través de una de las 3 opciones citadas en la sección anterior, se mostrará la pantalla "Lista de tareas de trabajo", en esta pantalla realizaremos las configuraciones necesarias para avanzar en el proceso de activación de **\<NomeProduto>**.
+Después de realizar el registro a través de una de las 3 opciones citadas en la sección anterior, se mostrará la pantalla "Tu lista de tareas de trabajo", en esta pantalla realizaremos las configuraciones necesarias para avanzar en el proceso de activación de **\<NomeProduto>**.
 
 1. Acepte y haga todos los ajustes en las pantallas hasta llegar a la siguiente pantalla:
 

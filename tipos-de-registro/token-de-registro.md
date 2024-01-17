@@ -23,9 +23,6 @@ A continuación se mostrarán las siguientes pantallas, haga clic en siguiente e
 
 5\. En la pantalla 3, otorgue permisos para que la "Device Policy" pueda tomar fotos y grabar videos. En la pantalla 4, haga clic en 'Ingresar código manualmente' y, en la pantalla 5, escriba el código de Token.
 
-\
-
-
 &#x20;             Pantalla 3                                 Pantalla 4                                Pantalla 5
 
 <figure><img src="https://lh7-us.googleusercontent.com/a-XekrXOvPzkfTHC93Pqh417xH65q996R7pvWpRQ-riFYsR1atjJ5pFi_hEbm88z3cU-3_i4IadxXsn8rf8KHdPWPVXCd86n8yQSKzSRL2pnxBaVDvFialtEl1WsI0TJ_1McbzlogMxl" alt=""><figcaption></figcaption></figure>
