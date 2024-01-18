@@ -4,13 +4,13 @@ Después de realizar el registro a través de una de las 3 opciones citadas en l
 
 1. Acepte y haga todos los ajustes en las pantallas hasta llegar a la siguiente pantalla:
 
-<figure><img src="https://lh7-us.googleusercontent.com/svz4Bg9c4rm8KKiWrF1k1-6Exc0f86sbcZsrumxwt6NPMTCHQy6BwvOyVvhnSDB1Jh4bVZq6pRUKeIuxMamUH07f2RL7BtlXk33q2-KcbujP7KgU02fbMJRvWfr_23xGBoyRj5chnXG-" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/svz4Bg9c4rm8KKiWrF1k1-6Exc0f86sbcZsrumxwt6NPMTCHQy6BwvOyVvhnSDB1Jh4bVZq6pRUKeIuxMamUH07f2RL7BtlXk33q2-KcbujP7KgU02fbMJRvWfr_23xGBoyRj5chnXG-" alt="" width="188"><figcaption></figcaption></figure>
 
 2. Establezca un bloqueo de pantalla para el dispositivo:
 
-<figure><img src="https://lh7-us.googleusercontent.com/svz4Bg9c4rm8KKiWrF1k1-6Exc0f86sbcZsrumxwt6NPMTCHQy6BwvOyVvhnSDB1Jh4bVZq6pRUKeIuxMamUH07f2RL7BtlXk33q2-KcbujP7KgU02fbMJRvWfr_23xGBoyRj5chnXG-" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/svz4Bg9c4rm8KKiWrF1k1-6Exc0f86sbcZsrumxwt6NPMTCHQy6BwvOyVvhnSDB1Jh4bVZq6pRUKeIuxMamUH07f2RL7BtlXk33q2-KcbujP7KgU02fbMJRvWfr_23xGBoyRj5chnXG-" alt="" width="188"><figcaption></figcaption></figure>
 
-3. En la lista de tareas de trabajo, el siguiente paso es instalar aplicaciones de trabajo. Pulse "Instalar".  En la siguiente pantalla se mostrarán las aplicaciones de trabajo disponibles para la instalación.  En el ejemplo, solo tenemos la aplicación **Claro Monitor Empresarial**, pero podría ser una lista más extensa. Esto depende de las configuraciones laborales de la empresa. Pulse el botón "Listo" para continuar.
+3. En la lista de tareas de trabajo, el siguiente paso es instalar aplicaciones de trabajo. Pulse "Instalar". En la siguiente pantalla se mostrarán las aplicaciones de trabajo disponibles para la instalación. En el ejemplo, solo tenemos la aplicación **Claro Monitor Empresarial**, pero podría ser una lista más extensa. Esto depende de las configuraciones laborales de la empresa. Pulse el botón "Listo" para continuar.
 
 {% hint style="info" %}
 **ADVERTENCIA**
